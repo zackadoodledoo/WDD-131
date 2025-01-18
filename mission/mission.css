@@ -33,6 +33,18 @@ ul {
     list-style: none;
     padding: 0;
 }
+body.dark {
+    background-color: #333;
+    color: white;
+}
+
+body.dark h2 {
+        color: #66CCFF; /* Better contrast for dark theme */
+    }
+
+body.dark footer img {
+        content: url('byui-logo-white.png');
+    }
 img {
     width: 150px;
 }
