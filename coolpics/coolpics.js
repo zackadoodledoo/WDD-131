@@ -1,0 +1,2 @@
+// coolpics.js
+
